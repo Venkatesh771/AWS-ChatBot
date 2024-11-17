@@ -24,9 +24,9 @@ Users can easily interact with the chatbot through WhatsApp, making healthcare g
 
 
 <h2 align="left">Tech Stack<img align="center" src="https://www.svgrepo.com/show/408381/stack-apps-layers.svg" alt="venkatreddy" height="50" width="60" /></h2>
+<p>The chatbot is hosted on Amazon AWS, utilizing a serverless architecture for scalability and efficiency. Key components of the deployment include:</p>
 
-- **Front End**: HTML, CSS, JavaScript, Boostrap, jquery.
-- **Back End**: PHP, MYSQL Data Base.
-- **GitHub**: For hosting the project repository and collaborating with others.
-- **Visual Studio Code**: As the code editor for writing and managing the project files.
-- **Server**: XAMPP Control Panel Server.
+- **AWS Lex:** Powers the conversational interface with natural language understanding.
+- **AWS Lambda:** Handles backend logic and integrates with external services.
+- **Twilio API:** Facilitates communication between the chatbot and WhatsApp for real-time messaging.
+- **WhatsApp Integration:** Ensures users can easily interact with the bot on a familiar and widely-used platform.
