@@ -1,1 +1,1 @@
-<h1 align="left">Ayurvedic Medicine And Precaution Suggestion ChatBot<img align="center" src="https://www.kindpng.com/picc/m/78-788160_transparent-stock-market-icon-png-png-download.png" alt="venkatreddy" height="50" width="70" /></h1>
+<h1 align="left">Ayurvedic Medicine And Precautions Suggestion ChatBot<img align="center" src="https://img.freepik.com/free-vector/chatbot-chat-message-vectorart_78370-4104.jpg?semt=ais_hybrid" alt="venkatreddy" height="50" width="70" /></h1>
