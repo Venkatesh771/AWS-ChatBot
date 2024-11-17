@@ -3,3 +3,5 @@
 <p>This chatbot is designed to provide users with personalized healthcare advice and precautionary suggestions based on their inputs. Hosted on Amazon AWS for robust performance and integrated with WhatsApp for seamless communication, the bot promotes health awareness and empowers individuals with accurate, quick, and actionable recommendations.
 
 Users can easily interact with the chatbot through WhatsApp, making healthcare guidance accessible anytime, anywhere, in a user-friendly and conversational manner.</p>
+
+![Uploading Natural_Medicine.jpg…]()
