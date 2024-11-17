@@ -32,3 +32,6 @@ Users can easily interact with the chatbot through WhatsApp, making healthcare g
 - **WhatsApp Integration:** Ensures users can easily interact with the bot on a familiar and widely-used platform.
 
 <h2>ChatBot Demo <img align="center" src="https://cdn-icons-png.flaticon.com/512/1091/1091831.png" alt="venkatreddy" height="40" width="40" /></h2>
+
+![ChatBotSC](https://github.com/user-attachments/assets/e1acc5bd-0076-4998-8519-5bfdabe09c64)
+
