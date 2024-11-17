@@ -4,9 +4,7 @@
 
 Users can easily interact with the chatbot through WhatsApp, making healthcare guidance accessible anytime, anywhere, in a user-friendly and conversational manner.</p>
 
-<img align="center" src="https://img.freepik.com/free-photo/flat-lay-herbal-therapy-products_23-2149339723.jpg" alt="Image"/>
-
-<h3 align="center"><img align="center" src="https://cdn-icons-png.flaticon.com/512/4857/4857296.png" alt="venkatreddy"/></h3>
+<h3 align="center"><img align="center" src="https://img.freepik.com/free-photo/flat-lay-herbal-therapy-products_23-2149339723.jpg alt="Image"/></h3>
 
 <h3 align="left">Key Features</h3>
 
