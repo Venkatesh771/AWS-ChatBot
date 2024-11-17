@@ -7,6 +7,12 @@ Users can easily interact with the chatbot through WhatsApp, making healthcare g
 <h3 align="center"> <img align="center" src="https://cdn.create.vista.com/api/media/small/396234766/stock-photo-panoramic-shot-herbs-green-leaves-mortar-pestle-concrete-background-naturopathy" alt="Image"/></h3>
 <h3 align="left">Key Features</h3>
 
-1. **Symptom Checker**:
+1. **🩺 Symptom Checker**:
 - Users can input symptoms, and the bot provides possible precautionary measures.
 - Example: "I have a fever and cough" → Suggestions like staying hydrated, resting, and monitoring temperature.
+
+2. **🚑 Emergency Guidance**:
+- Provides first-aid steps and emergency contacts in case of severe health concerns or emergencies.
+
+2. **🎯 Custom Recommendations**:
+- Suggests personalized advice tailored to user-specific data like age, gender, or pre-existing conditions.
