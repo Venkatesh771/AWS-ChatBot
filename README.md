@@ -20,6 +20,9 @@ Users can easily interact with the chatbot through WhatsApp, making healthcare g
 <h2>🌐 AWS Lex and WhatsApp Integration</h2>
 <p>The Health Care Precautions Suggestion Chatbot is powered by AWS Lex, which enables natural language understanding for seamless and intelligent user interactions. Integrated with WhatsApp through Twilio, the chatbot allows users to access personalized health advice and precautionary suggestions in real-time via a convenient messaging platform. This combination ensures a scalable, reliable, and user-friendly healthcare solution.</p>
 
+![Screenshot 2024-11-17 102315](https://github.com/user-attachments/assets/31d92aa0-2d37-4a76-af11-8173d212340e)
+
+
 <h2 align="left">Tech Stack<img align="center" src="https://www.svgrepo.com/show/408381/stack-apps-layers.svg" alt="venkatreddy" height="50" width="60" /></h2>
 
 - **Front End**: HTML, CSS, JavaScript, Boostrap, jquery.
