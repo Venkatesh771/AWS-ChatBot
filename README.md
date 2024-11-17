@@ -1,1 +1,1 @@
-# AWS-ChatBot
+<h1 align="left">Ayurvedic Medicine And Precaution Suggestion ChatBot<img align="center" src="https://www.kindpng.com/picc/m/78-788160_transparent-stock-market-icon-png-png-download.png" alt="venkatreddy" height="50" width="70" /></h1>
