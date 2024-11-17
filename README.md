@@ -17,7 +17,7 @@ Users can easily interact with the chatbot through WhatsApp, making healthcare g
 **🎯 Custom Recommendations**:
 - Suggests personalized advice tailored to user-specific data like age, gender, or pre-existing conditions.
 
-<h3>🌐 AWS Lex and WhatsApp Integration</h3>
+<h2>🌐 AWS Lex and WhatsApp Integration</h2>
 
 <h2 align="left">Tech Stack<img align="center" src="https://www.svgrepo.com/show/408381/stack-apps-layers.svg" alt="venkatreddy" height="50" width="60" /></h2>
 
