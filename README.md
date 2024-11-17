@@ -4,7 +4,7 @@
 
 Users can easily interact with the chatbot through WhatsApp, making healthcare guidance accessible anytime, anywhere, in a user-friendly and conversational manner.</p>
 
-<h3 align="center"> <img align="center" src="https://img.freepik.com/free-photo/stethoscope-natural-treatment-top-view_23-2148439025.jpg" alt="Image"/></h3>
+<h3 align="center"> <img align="center" src="https://cdn.create.vista.com/api/media/small/396234766/stock-photo-panoramic-shot-herbs-green-leaves-mortar-pestle-concrete-background-naturopathy" alt="Image"/></h3>
 
 <h3 align="left">Key Features</h3>
 
