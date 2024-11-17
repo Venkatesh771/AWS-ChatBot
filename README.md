@@ -5,7 +5,7 @@
 Users can easily interact with the chatbot through WhatsApp, making healthcare guidance accessible anytime, anywhere, in a user-friendly and conversational manner.</p>
 
 <h3 align="left">Key Features</h3>
-
+<img align="center" src="https://img.freepik.com/free-photo/flat-lay-herbal-therapy-products_23-2149339723.jpg" alt="Image"/>
 1. **Symptom Checker**:
 - Users can input symptoms, and the bot provides possible precautionary measures.
 - Example: "I have a fever and cough" → Suggestions like staying hydrated, resting, and monitoring temperature.
