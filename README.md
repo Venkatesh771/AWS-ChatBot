@@ -33,5 +33,6 @@ Users can easily interact with the chatbot through WhatsApp, making healthcare g
 
 <h2>ChatBot Demo <img align="center" src="https://cdn-icons-png.flaticon.com/512/1091/1091831.png" alt="venkatreddy" height="40" width="40" /></h2>
 
-![ChatBotSC](https://github.com/user-attachments/assets/e1acc5bd-0076-4998-8519-5bfdabe09c64)
+![2](https://github.com/user-attachments/assets/9f9a92b6-72ff-4246-a868-b432e643807a)
+
 
