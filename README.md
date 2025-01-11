@@ -4,7 +4,7 @@
 
 Users can easily interact with the chatbot through WhatsApp, making healthcare guidance accessible anytime, anywhere, in a user-friendly and conversational manner.</p>
 
-<h3 align="center"> <img align="center" src="https://img.freepik.com/free-photo/elegant-skin-care-banner-design_23-2149480161.jpg?t=st=1736570823~exp=1736574423~hmac=76006b854e3754f8eaf91f3818e5715e158c54d96a278a488f2a4eab7bf67486&w=1060" alt="Image"/></h3>
+<h3 align="center"> <img align="center" src="https://img.freepik.com/free-photo/beautiful-still-life-with-herbal-medicine_23-2149292020.jpg?t=st=1736570945~exp=1736574545~hmac=b21f302dfb33f89c2debff38a3c4ec93da6fe131d0829c48a9026c4c758f16b0&w=996" alt="Image"/></h3>
 <h3 align="left">Key Features</h3>
 
 **🩺 Symptom Checker**:
